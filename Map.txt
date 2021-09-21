@@ -1,0 +1,153 @@
+VARS
+WA : 1 2 3 4 5
+ID : 1 2 3 4 5
+OR : 1 2 3 4 5
+NV : 1 2 3 4 5
+CA : 1 2 3 4 5
+ND : 1 2 3 4 5
+MT : 1 2 3 4 5
+UT : 1 2 3 4 5
+AZ : 1 2 3 4 5
+WY : 1 2 3 4 5
+CO : 1 2 3 4 5
+NM : 1 2 3 4 5
+SD : 1 2 3 4 5
+NE : 1 2 3 4 5
+KS : 1 2 3 4 5
+OK : 1 2 3 4 5
+TX : 1 2 3 4 5
+MN : 1 2 3 4 5
+IA : 1 2 3 4 5
+MO : 1 2 3 4 5
+AR : 1 2 3 4 5
+LA : 1 2 3 4 5
+WI : 1 2 3 4 5
+IL : 1 2 3 4 5
+MS : 1 2 3 4 5
+MI : 1 2 3 4 5
+IN : 1 2 3 4 5
+KY : 1 2 3 4 5
+TN : 1 2 3 4 5
+AL : 1 2 3 4 5
+OH : 1 2 3 4 5
+WV : 1 2 3 4 5
+VA : 1 2 3 4 5
+GA : 1 2 3 4 5
+FL : 1 2 3 4 5
+PA : 1 2 3 4 5
+MD : 1 2 3 4 5
+DC : 1 2 3 4 5
+NC : 1 2 3 4 5
+SC : 1 2 3 4 5
+VT : 1 2 3 4 5
+NY : 1 2 3 4 5
+NJ : 1 2 3 4 5
+DE : 1 2 3 4 5
+NH : 1 2 3 4 5
+MA : 1 2 3 4 5
+CT : 1 2 3 4 5
+ME : 1 2 3 4 5
+RI : 1 2 3 4 5
+ENDVARS
+CONSTRAINTS
+!= WA OR
+!= WA ID
+!= CA OR
+!= CA NV
+!= CA AZ
+!= OR ID
+!= OR NV
+!= NV ID
+!= NV UT
+!= NV AZ
+!= ID MT
+!= ID WY
+!= ID UT
+!= UT WY
+!= UT CO
+!= UT AZ
+!= MT ND
+!= MT SD
+!= MT WY
+!= WY SD
+!= WY NE
+!= WY CO
+!= CO NE
+!= CO KS
+!= CO OK
+!= CO NM
+!= ND SD
+!= ND MN
+!= SD MN
+!= SD IA
+!= SD NE
+!= NE IA
+!= NE MO
+!= NE KS
+!= KS MO
+!= KS OK
+!= OK AR
+!= OK TX
+!= TX AR
+!= TX LA
+!= MN WI
+!= MN IA
+!= IA WI
+!= IA IL
+!= IA MO
+!= MO IL
+!= MO KY
+!= MO TN
+!= MO AR
+!= AR TN
+!= AR MS
+!= AR LA
+!= LA MS
+!= WI IL
+!= WI MI
+!= IL IN
+!= IL KY
+!= MS TN
+!= MS AL
+!= MI IN
+!= MI OH
+!= IN OH
+!= IN KY
+!= KY OH
+!= KY WV
+!= KY VA
+!= KY TN
+!= TN VA
+!= TN NC
+!= TN GA
+!= TN AL
+!= OH PA
+!= OH WV
+!= WV PA
+!= WV MD
+!= WV VA
+!= VA MD
+!= VA DC
+!= VA NC
+!= GA NC
+!= GA SC
+!= GA FL
+!= PA NY
+!= PA NJ
+!= PA DE
+!= PA MD
+!= MD DE
+!= MD DC
+!= NC SC
+!= VT NH
+!= VT MA
+!= VT NY
+!= NY MA
+!= NY NJ
+!= NJ DE
+!= NH ME
+!= NH MA
+!= MA RI
+!= MA CT
+!= CT RI
+ENDCONSTRAINTS
